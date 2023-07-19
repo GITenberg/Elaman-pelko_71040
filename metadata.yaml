@@ -1,0 +1,40 @@
+_repo: Elaman-pelko_71040
+_version: 0.0.1
+alternative_title: La peur de vivre. Finnish
+contributor:
+  translator:
+    agent_name: Lehtonen, Aino
+    gutenberg_agent_id: '47974'
+    url: http://www.gutenberg.org/2009/agents/47974
+creator:
+  author:
+    agent_name: Bordeaux, Henry
+    aliases:
+    - Bordeaux, Henri
+    - Bordeaux, Enrique
+    birthdate: 1870
+    deathdate: 1963
+    gutenberg_agent_id: '4478'
+    url: http://www.gutenberg.org/2009/agents/4478
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Henry_Bordeaux
+    - https://en.wikipedia.org/wiki/Henry_Bordeaux
+description: ''
+gutenberg_issued: '2023-06-25'
+identifiers:
+  gutenberg: '71040'
+language: fi
+pgterms:marc905: 20210212222014bnordeaux
+pgterms:marc906: '1917'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aFinland :$bWerner Söderström Osakeyhtiö, $c1917, reprint 1937.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- Translations into Finnish'
+- !lcc 'PQ'
+- GITenberg
+title: Elämän pelko
+url: http://www.gutenberg.org/ebooks/71040
