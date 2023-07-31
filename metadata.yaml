@@ -6,6 +6,9 @@ contributor:
     agent_name: Lehtonen, Aino
     gutenberg_agent_id: '47974'
     url: http://www.gutenberg.org/2009/agents/47974
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bordeaux, Henry
@@ -20,6 +23,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Henry_Bordeaux
     - https://en.wikipedia.org/wiki/Henry_Bordeaux
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71040#Elaman-pelko
 gutenberg_issued: '2023-06-25'
 identifiers:
   gutenberg: '71040'
